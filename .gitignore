@@ -1,0 +1,15 @@
+# Your signing key. NEVER commit it.
+*.der
+*.pem
+developer_key*
+
+# Build output
+bin/
+gen/
+mir/
+internal-mir/
+external-mir/
+*.prg
+*.iq
+*.prg.debug.xml
+*-settings.json

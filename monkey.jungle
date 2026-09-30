@@ -1,0 +1,5 @@
+# monkey.jungle — Build configuration for SurfDesign watch face
+# This tells the Monkey C compiler where to find everything.
+# The SDK handles the rest by convention (source/ and resources/ folders).
+
+project.manifest = manifest.xml

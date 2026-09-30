@@ -1,0 +1,6 @@
+<settings>
+    <setting propertyKey="@Properties.worldTidesApiKey"
+             title="@Strings.worldTidesApiKeyTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+</settings>

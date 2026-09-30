@@ -1,0 +1,6 @@
+<strings>
+    <!-- App name shown in the Connect IQ store and watch settings -->
+    <string id="AppName">SurfDesign</string>
+    <string id="worldTidesApiKeyTitle">WorldTides API Key</string>
+    <string id="worldTidesApiKeyPrompt">Optional: paste your WorldTides API key to enable tide data (free at worldtides.info). Leave blank to hide tide.</string>
+</strings>

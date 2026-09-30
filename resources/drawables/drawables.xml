@@ -1,0 +1,15 @@
+<drawables>
+    <bitmap id="LauncherIcon"             filename="launcher_icon.png"/>
+    <bitmap id="steps_white"              filename="steps_white.png"/>
+    <bitmap id="calories_white"           filename="calories_white.png"/>
+    <bitmap id="heart_rate_white"         filename="heart_rate_white.png"/>
+    <bitmap id="min_max_white"            filename="min_max_white.png"/>
+    <bitmap id="outside_weather_colored"  filename="outside_weather_colored.png"/>
+    <bitmap id="water_temp_colored"       filename="water_temp_colored.png"/>
+    <bitmap id="wind_speed"               filename="wind_speed.png"/>
+    <bitmap id="wind_direction"           filename="wind_direction.png"/>
+    <bitmap id="swell_direction"          filename="swell_direction.png"/>
+    <bitmap id="swell_size"               filename="swell_size.png"/>
+    <bitmap id="swell_period"             filename="swell_period.png"/>
+    <bitmap id="tidal_lines"              filename="tidal_lines.png"/>
+</drawables>

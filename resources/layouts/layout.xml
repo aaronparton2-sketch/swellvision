@@ -1,0 +1,6 @@
+<layout id="WatchFace">
+    <!-- Phase 1: Layout is intentionally empty.
+         We draw everything directly in SurfDesignView.onUpdate() using the dc (drawing context).
+         This gives us full control over positioning — important for the custom surf design.
+         XML layout elements will be added in later phases only if needed. -->
+</layout>
